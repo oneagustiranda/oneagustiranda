@@ -15,10 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oneagustiranda&show_icons=true&locale=en&layout=compact" alt="oneagustiranda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oneagustiranda&show_icons=true&locale=en" alt="oneagustiranda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneagustiranda&" alt="oneagustiranda" /></p>
-
 
 <!---
 oneagustiranda/oneagustiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
