@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oneagustiranda&label=Profile%20views&color=0e75b6&style=flat" alt="oneagustiranda" /> </p>
 
-- 🔭 I’m currently working on **People Dashboard**
+- 🔭 I’m currently looking for **Web Developer Job**
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 
