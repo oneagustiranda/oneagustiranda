@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm One Agustiranda</h1>
-<h3 align="center">A passionate frontend developer and visualization</h3>
+<h1>Hi 👋, I'm Agust</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oneagustiranda&label=Profile%20views&color=0e75b6&style=flat" alt="oneagustiranda" /> </p>
+<img src="https://komarev.com/ghpvc/?username=oneagustiranda&label=Profile%20views&color=0e75b6&style=flat" alt="oneagustiranda" /> [![Linkedin Badge](https://img.shields.io/badge/-oneagustiranda-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oneagustiranda/)](https://www.linkedin.com/in/oneagustiranda/) [![Gmail Badge](https://img.shields.io/badge/agustiranda.one-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:agustiranda.one@gmail.com)](mailto:agustiranda.one@gmail.com)
 
-- 🔭 I’m currently looking for **Web Developer Job**
+I am an IT enthusiast and started my career with an internship in the Semiconductor and SaaS Industry with .NET (C# programming language) for 1 year, familiar with ASP.NET MVC, ASP.NET Core Web API, and .NET Core Class Library as well as SQL Server (SSMS) for managing databases.
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+I like to learn something new about tech, like web development because I can challenge myself and think critically to develop myself and solve problems by combining knowledge and skills.
 
-- 📫 How to reach me **agustiranda.one@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oneagustiranda&show_icons=true&locale=en&layout=compact" alt="oneagustiranda" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneagustiranda&theme=vue"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneagustiranda&show_icons=true&locale=en&layout=compact" alt="oneagustiranda"/></td>
+  </tr>
+</table>
 
 
 <!---
